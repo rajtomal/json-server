@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "hello",
+      "email": "hello@mail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "world",
+      "email": "world@mail.com",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "name": "hi",
+      "email": "hi@mail.com",
+      "password": "123"
+    }
+  ],
+  "products": [
+    {
+      "name": "Apple iPhone",
+      "model": "Apple iPhone 14 Pro Max",
+      "color": "Deep Purple",
+      "category": "Smartphone",
+      "price": "155,000",
+      "imgUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-01-500x500.webp",
+      "description": "Model: iPhone 14 Pro Max Display: 6.7 Super Retina XDR Always-On display Processor: A16 Bionic chip, Storage: 256GB Camera: 48MP + 12MP + 12MP Rear, 12MP Front Features: Dynamic Island, Face ID, Dual eSIM",
+      "id": 1
+    },
+    {
+      "name": "OnePlus",
+      "model": "OnePlus Nord CE 3 Lite",
+      "color": "Chromatic Gray",
+      "category": "Smartphone",
+      "price": "35,000",
+      "imgUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/nord-ce-3-lite-5g/oneplus-nord-ce-3-lite-5g-green-500x500.webp",
+      "description": "Model: Nord CE 3 Lite 5G\nDisplay: 6.72\" FHD+ 120 Hz Display\nProcessor: Qualcomm SM6375 Snapdragon 695 5G (6 nm)\nCamera: Triple 108+2+2 MP on Rear, 16MP Front\nFeatures: Side Fingerprint, 67W SUPERVOOC",
+      "id": 2
+    }
+  ]
+}
